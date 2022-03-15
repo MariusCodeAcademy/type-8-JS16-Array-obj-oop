@@ -12,7 +12,7 @@ const users = [
     username: 'Jill',
     password: 'secret456',
     department: 'B',
-    avatar: '2.jpg',
+    avatar: '2.png',
     online: true,
   },
   {
@@ -34,3 +34,7 @@ const users = [
 ];
 
 // 1. parasyti funkcija kuri atrenka visus online esancius vartotojus
+
+// 2. su funkcija atrinkti B ir C departameto userius
+
+// 3. parasyti funkcija kuri sugeneruoja htmle nuotrauku galerija is uzer paveikleliu, su username pavadinimu
